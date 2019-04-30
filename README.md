@@ -2,6 +2,8 @@
 
 ### Part i
 
+Coding.
+
 Remember the Bayes Dice app we build many weeks ago? Let's revisit that app, but with a twist.
 
 You have 3 coins with the following probabilities. P(H|1) = 0.3, P(H|2) = 0.45, P(H|3) = 0.75.
@@ -22,3 +24,14 @@ Can you use the Naive Bayes Classifier if your features are not independent?
 
 ### Part iii
 
+Models.
+
+Take this data. https://github.com/gSchool/dsi-logistic-regression/blob/g79/data/grad.csv
+
+Predict whether someone will get into grad school. Use the following models.
+
+- Logistic Regression
+- Random Forest
+- Naive Bayes (you will need to figure out what type works best for this data)
+
+Which model performed the best?
