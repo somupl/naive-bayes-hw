@@ -10,5 +10,15 @@ That is read as the probability of heads for coin 1 is 30%, etc.
 
 Write a small app, using Object Oriented Python, that allows you to randomly select a coin (without looking) and then repeatedly flip it about 10 times or so until you are fairly certain as to the type of coin you selected.
 
-
 ### Part ii
+
+Questions.
+
+In general, what makes the Naive Bayes Classifier so `naive`?
+
+What is the difference between the Bernoulli, Gaussian and Multinomial Naive Bayes Classifiers?
+
+Can you use the Naive Bayes Classifier if your features are not independent?
+
+### Part iii
+
