@@ -35,3 +35,15 @@ Predict whether someone will get into grad school. Use the following models.
 - Naive Bayes (you will need to figure out what type works best for this data)
 
 Which model performed the best?
+
+### Part iv
+
+Text Classification.
+
+Remember this assignment.
+
+https://github.com/data-science-ml/tweets-nlp-assignment/blob/master/nlp-assignment.md
+
+Take the above tweets and turn them into a bag of words. Use a Naive Bayes classifier to figure out if a particular tweet is Neutral, Negative or Positive. Remember to split your data.
+
+What is the accuracy of your model?
