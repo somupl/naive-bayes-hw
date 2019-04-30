@@ -47,3 +47,7 @@ https://github.com/data-science-ml/tweets-nlp-assignment/blob/master/nlp-assignm
 Take the above tweets and turn them into a bag of words. Use a Naive Bayes classifier to figure out if a particular tweet is Neutral, Negative or Positive. Remember to split your data.
 
 What is the accuracy of your model?
+
+Compare this model to a KMeans clustering model where each tweet is a 300-d vector.
+
+Which model performs better?
